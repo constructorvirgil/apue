@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/stat.dir/main.c.o  -o stat 
