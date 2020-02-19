@@ -20,6 +20,8 @@ void pr_file_info(char* file_name,struct stat* buf)
         ptr = "directory";
     else if(S_ISLNK(buf->st_mode))
         ptr = "symbolic link";
+    else
+        ptr = "unknow file type";
 
     printf("%s is %s\n",file_name,ptr);
     printf("uid:%d\n",buf->st_uid);

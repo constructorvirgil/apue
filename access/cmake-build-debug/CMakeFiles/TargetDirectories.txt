@@ -1,0 +1,3 @@
+/home/virgil/apue/access/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/virgil/apue/access/cmake-build-debug/CMakeFiles/access.dir
+/home/virgil/apue/access/cmake-build-debug/CMakeFiles/edit_cache.dir
